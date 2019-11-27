@@ -17,7 +17,7 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install numpy
+ Introduction
 ```
 [↥ back to top](#table-of-contents)
 
