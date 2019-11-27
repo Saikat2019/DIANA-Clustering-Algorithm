@@ -14,11 +14,12 @@
 
 ## Introduction
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Hierarchical clustering is a method of cluster analysis which seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two types:
 
-```bash
- Introduction
-```
+    Divisive: This is a "top down" approach: all observations start in one cluster, and splits are performed recursively as one moves down the hierarchy.
+
+In general, the merges and splits are determined in a greedy manner. The results of hierarchical clustering are usually presented in a dendrogram.
+
 [↥ back to top](#table-of-contents)
 
 ## Data  
