@@ -1,7 +1,8 @@
 # DIvisive ANAlysis (DIANA) clustering
 
-<img src="https://raw.githubusercontent.com/Saikat2019/MY_README_TEMPLATE/master/README_RES/icon.jpeg" align="right" />
+### Course Project Assignment for CS40003, Indian Institute of Technology, Kharagpur
 
+<img src="https://raw.githubusercontent.com/Saikat2019/MY_README_TEMPLATE/master/README_RES/icon.jpeg" align="right" />
 
 
 ## Table of Contents
@@ -10,7 +11,6 @@
 - [Theory](#Theory)
 - [References](#References)
 - [Tools](#Tools)
-- [License](#License)
 
 ## Introduction
 
@@ -25,6 +25,14 @@ In general, the merges and splits are determined in a greedy manner. The results
 ## Data  
 
 - ### HAYES ROTH Data
+	Attribute Information:
+	-- 1. name: distinct for each instance and represented numerically
+	-- 2. hobby: nominal values ranging between 1 and 3
+	-- 3. age: nominal values ranging between 1 and 4
+	-- 4. educational level: nominal values ranging between 1 and 4
+	-- 5. marital status: nominal values ranging between 1 and 4
+	-- 6. class: nominal value between 1 and 3
+
 
 [↥ back to top](#table-of-contents)
 
@@ -42,17 +50,10 @@ In general, the merges and splits are determined in a greedy manner. The results
 
 ## Tools
 
-> Used Programming languages/Libraries
+> Used Programming language 
 
 [![Language](https://img.shields.io/badge/python-3.5-009900.svg)](https://docs.python.org/3/)
 
 [↥ back to top](#table-of-contents)
 
-## License
-
->License of the Project goes here.
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-[↥ back to top](#table-of-contents)
 

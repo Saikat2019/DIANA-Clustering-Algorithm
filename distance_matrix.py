@@ -4,8 +4,18 @@ import pandas as pd
 from calculate_similarity import SimilarityMeasure
 import pickle
 
+#this function calculates Distance Matrix or Similarity matrix
 def DistanceMatrix(data =None):
-	pickleFilePath = Path('SimMat.pkl')
+	'''
+	arguement
+	---------
+	data - the dataset whose Similarity matrix we are going to calculate
+
+	returns
+	-------
+	the distance matrix by loading th pickle file
+	'''
+	pickleFilePath = Path('SimMat.pkl') #checking if the distance matrix was saved from last run to save processing
 	Data_list = []
 	for index, rows in data.iterrows():
 		my_data = [rows.Hobby, rows.Age, rows.Educational_Level, rows.Marital_Status]
@@ -31,6 +41,7 @@ def DistanceMatrix(data =None):
 
 
 if __name__=='__main__':
+	# for testing the module
 	data = pd.read_csv('HAYES_ROTH.csv')
 	data = data.drop(columns="Name")
 	data = data.drop(columns="Class")
