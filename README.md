@@ -2,8 +2,6 @@
 
 ### Course Project Assignment for CS40003, Indian Institute of Technology, Kharagpur
 
-<img src="https://raw.githubusercontent.com/Saikat2019/MY_README_TEMPLATE/master/README_RES/icon.jpeg" align="right" />
-
 
 ## Table of Contents
 - [Introduction](#Introduction)
