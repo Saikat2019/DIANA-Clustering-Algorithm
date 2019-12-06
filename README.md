@@ -6,9 +6,8 @@
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Data](#Data)
-- [Theory](#Theory)
-- [References](#References)
 - [Tools](#Tools)
+- [Members](#Members)
 
 ## Introduction
 
@@ -34,17 +33,6 @@ In general, the merges and splits are determined in a greedy manner. The results
 
 [↥ back to top](#table-of-contents)
 
-## Theory
-
-- DIvisive ANAlysis *DIANA*
-
-[↥ back to top](#table-of-contents)
-
-## References
-
-- 
-
-[↥ back to top](#table-of-contents)
 
 ## Tools
 
@@ -54,4 +42,10 @@ In general, the merges and splits are determined in a greedy manner. The results
 
 [↥ back to top](#table-of-contents)
 
+## Members
 
+####[Saikat Mondal](https://github.com/Saikat2019) 
+####[Aryan Singh]
+
+
+[↥ back to top](#table-of-contents)
