@@ -44,8 +44,8 @@ In general, the merges and splits are determined in a greedy manner. The results
 
 ## Members
 
-####[Saikat Mondal](https://github.com/Saikat2019) 
-####[Aryan Singh]
+#### [Saikat Mondal](https://github.com/Saikat2019) 
+#### [Aryan Singh]
 
 
 [↥ back to top](#table-of-contents)
