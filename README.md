@@ -7,6 +7,7 @@
 - [Introduction](#Introduction)
 - [Data](#Data)
 - [Tools](#Tools)
+- [Instruction](#Instruction)
 - [Members](#Members)
 
 ## Introduction
@@ -41,6 +42,14 @@ In general, the merges and splits are determined in a greedy manner. The results
 [![Language](https://img.shields.io/badge/python-3.5-009900.svg)](https://docs.python.org/3/)
 
 [↥ back to top](#table-of-contents)
+
+## Instruction
+
+To run the program just run the DIvisiveANAlysis.py script
+```bash
+	python3 DIvisiveANAlysis.py 
+```
+you will get the output of the cluster number corrosponding to each sample as an array
 
 ## Members
 
